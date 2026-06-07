@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: whatsapp-bot
+    runtime: node
+    buildCommand: npm install
+    startCommand: node bot.js
+    plan: free
+    envVars:
+      - key: ADMINS
+        sync: false
+      - key: BOT_PREFIX
+        value: "!"
+      - key: MAX_STORAGE_MB
+        value: "512"
+      - key: CLEANUP_INTERVAL_MINUTES
+        value: "30"
