@@ -1,0 +1,6 @@
+{
+  "welcomeMessage": "🎬 *WELCOME TO VIDEO DOWNLOADER BOT* 🎬\n\nSend me any video link from the platforms below and I'll download it for you!\n\n*Supported Platforms:*\n• YouTube\n• Instagram\n• Facebook\n• TikTok\n• X (Twitter)\n\n*How to use:*\n1️⃣ Send me a video link\n2️⃣ Choose quality (1080p/720p/480p)\n3️⃣ Download immediately!\n\n*Commands:*\n!menu - Show this menu\n!help - Show all commands\n!status - Bot status\n\n*Note:* Videos available for ~30 days. Save to gallery to keep forever.",
+  "disclaimer": "⚠️ *DISCLAIMER* ⚠️\n\nThis bot downloads videos from public URLs only.\n\n• Videos are available in this chat for approximately 30 days\n• Save videos to your gallery to keep them forever\n• Don't clear this chat or videos will be deleted\n• I don't store any videos on my servers\n\nFor issues or suggestions, contact admin.",
+  "welcomeImageUrl": "",
+  "admins": []
+}
