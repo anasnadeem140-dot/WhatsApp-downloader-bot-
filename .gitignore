@@ -1,0 +1,7 @@
+node_modules/
+auth_info/
+downloads/
+.env
+database/settings.json
+*.log
+npm-debug.log*
